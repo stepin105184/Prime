@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1597751324 source:e:\codeblocks\prime\main.c
+	"prime_test.h"
+
+1597751324 t.h"
+
+1597751323 e:\codeblocks\prime\prime_test.h
+
+1597752257 source:e:\codeblocks\prime\prime.c
+	"prime.h"
+
+1597752341 
+
+1597751323 e:\codeblocks\prime\prime.h
+
+1597751323 source:e:\codeblocks\prime\unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
+1597751323 ace.h>
+
+1597751324 e:\codeblocks\prime\unity.h
+	"unity_internals.h"
+
+1597751324 ernals.h"
+
+1597751323 e:\codeblocks\prime\unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597752341 source:e:\codeblocks\prime\prime_test.c
+	"unity.h"
+	"prime.h"
+
+1597771126 source:/home/jisna/Desktop/prime/main.c
+	"prime_test.h"
+
+1597771124 /home/jisna/Desktop/prime/prime_test.h
+
+1597772058 source:/home/jisna/Desktop/prime/prime.c
+	"prime.h"
+
+1597771124 /home/jisna/Desktop/prime/prime.h
+
+1597772142 source:/home/jisna/Desktop/prime/prime_test.c
+	"unity.h"
+	"prime.h"
+
+1597771126 /home/jisna/Desktop/prime/unity.h
+	"unity_internals.h"
+
+1597771124 /home/jisna/Desktop/prime/unity_internals.h
+	"unity_config.h"
+	<setjmp.h>
+	<math.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdint.h>
+	<limits.h>
+	<stdio.h>
+	<stdio.h>
+	<time.h>
+	<time.h>
+
+1597771124 source:/home/jisna/Desktop/prime/unity.c
+	"unity.h"
+	<stddef.h>
+	<avr/pgmspace.h>
+
